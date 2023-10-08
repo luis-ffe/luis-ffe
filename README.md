@@ -2,12 +2,10 @@
 
 
 ## 🚀 About Me
-#### **Luis Carvalho** Mecinial Chemist working to be come a softwere developer.
-- 🌱 I’m currently a 42 Porto student.
+#### **Luis Carvalho**, Medicinial Chemist working to become a softwere developer.
 
-<p align="center">
-  <img src="luis-ffe.gif" height="175px" /> 
-</p>
+- 🌱 I’m currently a 42 Porto student.
+- 
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+##Skills
 [![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
