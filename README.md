@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-#### **Luis Carvalho**
+#### **Luis Carvalho** Mecinial Chemist working to be come a softwere developer.
 - 🌱 I’m currently a 42 Porto student.
 
 <p align="center">
