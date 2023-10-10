@@ -18,8 +18,9 @@
 
 ## 🛠️ Skills
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)
-
+-->
 
 
 
