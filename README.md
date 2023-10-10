@@ -2,17 +2,17 @@
 
 
 ## **Luis Carvalho**, Softwere developer in the making.
+<a href = "carvalho96filipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-- 🌱 I’m currently a 42 Porto student.
 
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently a [42 Porto](https://www.42porto.com/) student by the nickname `luis-ffe`
+
+
+- 🔭 I’m currently working on ft_printf and get_next_line.
+- 🤔 I’m looking for help with everything code related !!
+- 💬 Open to network and future job oportunities.
+  
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 -->
 
