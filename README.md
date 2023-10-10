@@ -32,10 +32,6 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
   </a>
 </p>
 
-<p align="center">
-<a href="[![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)"></a>
-</p>
-
 
 
 ### **WORK IN PROGRESS**
