@@ -1,6 +1,7 @@
-----------------------------------------------------------------------------------------------------------------
 ________________________________________________________________________________________________________________
-
+<!-- 
+LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
+-->
 <div align="center">
   <a href="mailto:carvalho96filipe@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
@@ -30,7 +31,11 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 
-##                                         🛠️ Skills
+## 🛠️ Skills
+
+<!-- 
+SKILL ICONS!
+-->
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,14 +43,14 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
   </a>
 </p>
 
-
-
-### **WORK IN PROGRESS**
-
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
-<p align="center">
+
+
+<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  </p>
+</div>
+
+
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
