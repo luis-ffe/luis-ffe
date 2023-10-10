@@ -1,8 +1,7 @@
 ### Once you see it, you can't unsee it...
 
 
-## 🚀 About Me
-#### **Luis Carvalho**, Medicinial Chemist working to become a softwere developer.
+#### **Luis Carvalho**, Softwere developer in the making.
 
 - 🌱 I’m currently a 42 Porto student.
 
