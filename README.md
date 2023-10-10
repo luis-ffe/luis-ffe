@@ -15,6 +15,18 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 --------------------------------------------------------------------------------------------------
 
+-->
+<h2 align="center"><strong>🛠️ Skills</strong> </h2>
+
+<!-- 
+SKILL ICONS!
+-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
+  </a>
+</p>
 
 <p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
 
@@ -28,18 +40,6 @@ LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
--->
-<h2 align="center"><strong>🛠️ Skills</strong> </h2>
-
-<!-- 
-SKILL ICONS!
--->
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
-  </a>
-</p>
 
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
