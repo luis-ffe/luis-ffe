@@ -12,8 +12,13 @@
 - 🔭 I’m currently working on ft_printf and get_next_line.
 - 🤔 I’m looking for help with everything code related !!
 - 💬 Open to network and future job oportunities.
+
   
+<!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
+
+HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
+         https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 
 ## 🛠️ Skills
