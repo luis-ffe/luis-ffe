@@ -14,9 +14,11 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
-<p align="center">
+
+<div align="center">
   [![GitHub Luis-ffe](https://img.shields.io/github/followers/luis-ffe?label=follow&style=social)](https://github.com/luis-ffe)
-</p>
+</div>
+
 
 --------------------------------------------------------------------------------------------------
 
