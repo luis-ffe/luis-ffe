@@ -1,7 +1,5 @@
 <h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
 
---------------------------------------------------------------------------------------------------
-
 
 <!-- 
 LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
@@ -15,6 +13,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   </a>
 </div>
 --------------------------------------------------------------------------------------------------
+
 
 
 <p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
