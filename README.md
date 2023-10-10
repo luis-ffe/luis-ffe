@@ -24,7 +24,7 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
 
-## 🛠️ Skills
+##                                         🛠️ Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
