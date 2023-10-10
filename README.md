@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
-__________________________________________________________________________________________________
 
+--------------------------------------------------------------------------------------------------
 
 
 <!-- 
@@ -14,7 +14,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
-__________________________________________________________________________________________________
+--------------------------------------------------------------------------------------------------
 
 
 <p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
