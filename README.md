@@ -15,10 +15,10 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 </div>
 
 --------------------------------------------------------------------------------------------------
+<!-- 
 
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
 
-<!-- 
 SKILL ICONS!
 -->
 
