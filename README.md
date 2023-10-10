@@ -27,6 +27,12 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 ## 🛠️ Skills
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
+  </a>
+</p>
+
+<p align="center">
 <a href="[![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)"></a>
 </p>
 
