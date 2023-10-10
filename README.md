@@ -20,55 +20,9 @@ LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 
 
 [![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)
-
-
-
-
-
-
-.
-.
-.
-.
-.
-
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
-
-
-
-
+\n
+\n
 yolo work in progressss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
