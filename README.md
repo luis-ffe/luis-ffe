@@ -13,15 +13,13 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 ________________________________________________________________________________________________________________
 
-## **Luis Carvalho**, Softwere developer in the making.
+<h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
 
+<p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
 
-- 🌱 I’m currently a [42 Porto](https://www.42porto.com/) student by the nickname `luis-ffe`
-
-
-- 🔭 I’m currently working on ft_printf and get_next_line.
-- 🤔 I’m looking for help with everything code related !!
-- 💬 Open to network and future job oportunities.
+<p align="center">🔭 I’m currently working on ft_printf and get_next_line.</p>
+<p align="center">🤔 I’m looking for help with everything code related !!</p>
+<p align="center">💬 Open to network and future job opportunities.</p>
 
   
 <!-- Usefull links for me and you.
