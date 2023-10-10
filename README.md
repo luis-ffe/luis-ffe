@@ -1,4 +1,4 @@
-________________________________________________________________________________________________________________
+----------------------------------------------------------------------------------------------------------------
 ________________________________________________________________________________________________________________
 
 <a href = "carvalho96filipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,9 +26,9 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 
 ## 🛠️ Skills
 
-
-[![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)
-
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux)](https://skillicons.dev)
+</p>
 
 
 
@@ -36,6 +36,8 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
-                                 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  </p>
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
