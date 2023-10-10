@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>Luis Carvalho</strong>,  Software developer in the making.</h1>
+<h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
 
 
 <!-- 
