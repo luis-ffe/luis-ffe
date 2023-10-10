@@ -15,10 +15,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   </a>
 </div>
 
-<div align="center">
-  [![GitHub Luis-ffe](https://img.shields.io/github/followers/luis-ffe?label=follow&style=social)](https://github.com/luis-ffe)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
-</div>
 
 
 --------------------------------------------------------------------------------------------------
