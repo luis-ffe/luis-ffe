@@ -2,9 +2,8 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 <a href = "carvalho96filipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+                                                                       <a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
 ## **Luis Carvalho**, Softwere developer in the making.
@@ -35,6 +34,8 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 
 ### **WORK IN PROGRESS**
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
+                                 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codemaker2015&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
