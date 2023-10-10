@@ -4,6 +4,7 @@
 <!-- 
 LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 -->
+
 <div align="center">
   <a href="mailto:carvalho96filipe@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
@@ -15,7 +16,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 --------------------------------------------------------------------------------------------------
 
--->
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
 
 <!-- 
@@ -40,7 +40,7 @@ LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
-
+-->
 ________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________
 
