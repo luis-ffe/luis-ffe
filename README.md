@@ -17,9 +17,9 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 
 <!--
+<p align="center">⬆️   Contact me here   ⬆️</p>
 -->
 
-<p align="center">⬆️   Contact me here   ⬆️</p>
 
 --------------------------------------------------------------------------------------------------
 
