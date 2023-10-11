@@ -14,7 +14,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
 </div>
-<p align="center">⬆️Reach me here⬆️</p>
+<p align="center">⬆️ Reach me here ⬆️</p>
 
 --------------------------------------------------------------------------------------------------
 
