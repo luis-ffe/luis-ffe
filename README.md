@@ -13,8 +13,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   <a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
-    <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
-  </a>
 </div>
 
 
@@ -31,6 +29,10 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 <p align="center">🤔 I’m looking for help with everything code related !!</p>
 <p align="center">💬 Open to network and future job opportunities.</p>
 
+<p align="center">
+    <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+  </a>
+  </p>
   
 <!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
