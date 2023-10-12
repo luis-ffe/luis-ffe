@@ -34,7 +34,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   </a>
   </p>
 
---------------------------------------------------------------------------------------------------
  
 <!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
