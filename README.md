@@ -33,7 +33,8 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
   </a>
   </p>
-  
+
+ 
 <!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 
@@ -55,7 +56,11 @@ SKILL ICONS!
 
 
 --------------------------------------------------------------------------------------------------
-
+<p float="left" align="center">
+  <a href="https://github.com/luis-ffe/42-Piscine">
+    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="265"/>
+  </a>
+</p>
 
 
 <p align="center">
