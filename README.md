@@ -69,6 +69,17 @@ SKILL ICONS!
   </a>
 </p>
 
+<p float="left" align="center">
+    &nbsp;
+  <a href="https://github.com/luis-ffe/42-Piscine">
+    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerccore.png" width="300"/>
+  </a>
+  &nbsp;
+    <a href="https://github.com/luis-ffe/42-Piscine">
+    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="300"/>
+  </a>
+</p>
+
 --------------------------------------------------------------------------------------------------
 
 <p align="center">
