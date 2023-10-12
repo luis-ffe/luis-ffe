@@ -58,10 +58,10 @@ SKILL ICONS!
 --------------------------------------------------------------------------------------------------
 <p float="left" align="center">
   <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="265"/>
+    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="300"/>
   </a>
     <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="265"/>
+    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="300"/>
   </a>
 </p>
 
