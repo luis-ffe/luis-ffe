@@ -13,6 +13,8 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   <a href="https://www.linkedin.com/in/luis-filipe-f-1018ba139/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
+    <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
+  </a>
 </div>
 
 
