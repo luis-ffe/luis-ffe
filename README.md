@@ -73,11 +73,11 @@ SKILL ICONS!
 
 <p float="left" align="center">
     &nbsp;
-  <a href="https://github.com/luis-ffe/42-Piscine">
+  <a href="https://github.com/luis-ffe/42-common-core">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerccore.png" width="300"/>
   </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
+    <a href="https://github.com/luis-ffe/42-P">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="300"/>
   </a>
 </p>
