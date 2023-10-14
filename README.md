@@ -56,6 +56,7 @@ SKILL ICONS!
 
 --------------------------------------------------------------------------------------------------
 
+<!--
 
 <p float="left" align="center">
     &nbsp;
@@ -67,6 +68,8 @@ SKILL ICONS!
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="300"/>
   </a>
 </p>
+
+-->
 
 <p float="left" align="center">
     &nbsp;
