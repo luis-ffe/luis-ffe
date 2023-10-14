@@ -77,7 +77,7 @@ SKILL ICONS!
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerccore.png" width="400"/>
   </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-P">
+    <a href="https://github.com/luis-ffe/42-Piscine">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="400"/>
   </a>
 </p>
