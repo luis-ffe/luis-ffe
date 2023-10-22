@@ -84,8 +84,6 @@ SKILL ICONS!
 
 --------------------------------------------------------------------------------------------------
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffes&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <p align="center">
