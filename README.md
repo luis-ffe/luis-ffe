@@ -86,9 +86,10 @@ SKILL ICONS!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffe&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
-
 <!--
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -102,46 +103,4 @@ SKILL ICONS!
 
 --------------------------------------------------------------------------------------------------
 
-<div style="text-align: center;">
-  <div style="float: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
-  </div>
-  <div style="float: right;">
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffe&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
-  </div>
-</div>
 
