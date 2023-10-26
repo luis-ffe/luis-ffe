@@ -49,7 +49,7 @@ SKILL ICONS!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,c,swift,vscode,github,ps,autocad,ai,linux" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=blender,react,c,swift,vscode,git,github,css,ps,autocad,ai,linux" alt="My Skills">
   </a>
 </p>
 
