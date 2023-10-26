@@ -24,7 +24,7 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 <p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
 
-<p align="center">🔭 I’m currently working on ft_printf and get_next_line.</p>
+<p align="center">🔭 I’m currently working on minitalk and so_long.</p>
 <p align="center">🤔 I’m looking for help with everything code related !!</p>
 <p align="center">💬 Open to network and future job opportunities.</p>
 
