@@ -84,20 +84,13 @@ SKILL ICONS!
 
 --------------------------------------------------------------------------------------------------
 
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffe&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
-</div>
-<div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
--->
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=luis-ffe&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  </a>
-</p>
 
 --------------------------------------------------------------------------------------------------
 
