@@ -54,7 +54,13 @@ SKILL ICONS!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,swift,nodejs,linux,bash,html,css,python" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,linux,bash,html,css,python" alt="My Skills">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,gcp,kubernetes,react,vite,mysql,github,notion" alt="My Skills">
   </a>
 </p>
 
