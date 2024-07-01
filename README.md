@@ -32,7 +32,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
     <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
   </a>
   </p>
-
  
 <!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
@@ -50,6 +49,12 @@ SKILL ICONS!
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,react,swift,vite,nodejs,mysql,git,github,linux,bash,gcp,html,css,python,notion" alt="My Skills">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,nodejs,linux,bash,html,css,python" alt="My Skills">
   </a>
 </p>
 
