@@ -53,7 +53,7 @@ SKILL ICONS!
   </a>
 </p>
 
-<h2 align="center">Tools, Platforms and CD/CI </h2>
+<h2 align="center">Tools adn Platforms CD/CI </h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,gcp" alt="My Skills">
