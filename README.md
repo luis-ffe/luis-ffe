@@ -49,7 +49,7 @@ SKILL ICONS!
 <h2 align="center">Programming Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,swift,mysql,bash,html,css,python" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,mysql,mongodb,bash,html,css,python" alt="My Skills">
   </a>
 </p>
 
