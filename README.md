@@ -53,17 +53,17 @@ SKILL ICONS!
   </a>
 </p>
 
-<h2 align="center">Tools and Platforms</h2>
+<h2 align="center">Tools, Platforms and CD/CI </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,gcp,kubernetes" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,gcp" alt="My Skills">
   </a>
 </p>
 
 <h2 align="center">Development and Productivity</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,github,notion,slack,airtable" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=react,vite,github,notion,stackoverflow,airtabble" alt="My Skills">
   </a>
 </p>
 
