@@ -46,32 +46,26 @@ HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-1
 SKILL ICONS!
 -->
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,react,swift,vite,nodejs,mysql,git,github,linux,bash,gcp,html,css,python,notion" alt="My Skills">
-  </a>
-</p>
-
+## Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,swift,mysql,bash,html,css,python" alt="My Skills">
   </a>
 </p>
 
+## Tools and Platforms
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,gcp,kubernetes" alt="My Skills">
   </a>
 </p>
 
+## Development and Productivity
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vite,github,notion" alt="My Skills">
   </a>
 </p>
-
-
-react,vite,github,notion"
 
 --------------------------------------------------------------------------------------------------
 
