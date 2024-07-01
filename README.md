@@ -63,7 +63,7 @@ SKILL ICONS!
 <h2 align="center">Development and Productivity</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,github,notion, slack, airtable" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=react,vite,github,notion,slack,airtable" alt="My Skills">
   </a>
 </p>
 
