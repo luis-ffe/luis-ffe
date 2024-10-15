@@ -26,7 +26,6 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 <p align="center">🔭 I’m currently working on <code>C++ Modules</code> .</p>
 <p align="center">🤔 I’m looking for help with everything code related !!</p>
-<p align="center">💬 Open to network and future job opportunities.</p>
 
 <p align="center">
     <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
