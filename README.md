@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Luis Carvalho</strong>, Software developer in the making.</h2>
+<h2 align="center"><strong>Luis Carvalho</strong>, Software Developer.</h2>
 
 
 <!-- 
