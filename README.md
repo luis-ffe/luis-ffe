@@ -120,19 +120,6 @@ SKILL ICONS!
 
 --------------------------------------------------------------------------------------------------
 
-
-# Acquired 42 Skills
-
-| Rank | Tags |
-|:----:|:----------------------------------------:|
-| 5    |              `docker`, `containers`              |
-| 4    | `object oriented programming`, `classes`, `inheritance`, `network`, `subnetting`, `IP`, `Subnet Mask`, `raycasting`, `3D programming`, `trigonometry` |
-| 3    |              `processes`, `UNIX signals`, `shell`, `threads`              |
-| 2    |  `3D images`, `bresenham`, `sorting`, `sorting algorithms`, `server-client communication`  |
-| 1    |              `VM`, `system administration`, `static variable`, `file descriptor`, `variadic functions`              |
-| 0    |              `C library`, `standard C functions`              |
-
-
 --------------------------------------------------------------------------------------------------
 
 
