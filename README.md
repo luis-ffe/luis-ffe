@@ -22,10 +22,10 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 
 --------------------------------------------------------------------------------------------------
 
-<p align="center">🌱 I’m currently a <a href="https://www.42porto.com/">42 Porto</a> student by the nickname <code>luis-ffe</code></p>
+<p align="center">🌱 <a href="https://www.42porto.com/">42 Porto</a> student: <code>luis-ffe</code></p>
 
-<p align="center">🔭 I’m currently working on <code>WebServer</code> .</p>
-<p align="center">🤔 I’m looking for help with everything code related !!</p>
+<p align="center">🔭 Currently in a internship @ <code>SEA;ME</code> .</p>
+<p align="center"> </p>
 
 <p align="center">
     <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
