@@ -55,9 +55,23 @@ SKILL ICONS!
 </p>
 
 --------------------------------------------------------------------------------------------------
-# SEA:ME Skills
+# SEA:ME Internship Skills
 
-- Preguiça de dar update a estas coisas
+**Multi-ECU Autonomous Vehicle & Smart City Ecosystem Development**
+
+| **Category**             | **Skills / Tools**                                                                                      | **Highlights**                                                                                      |
+|--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Embedded Systems**     | C++, Python, Microcontrollers, Sensors, Power Management                                              | Designed and programmed embedded systems integrating microcontrollers, sensors, and power hardware |
+| **Communication**        | CAN-Bus, Zenoh, Custom Routing Protocols                                                               | Achieved subsystem coordination with <15 ms latency                                                 |
+| **UI & Visualization**   | Qt/QML, Wireless Displays, Remote Dashboards                                                          | Built real-time in-vehicle clusters and control dashboards                                          |
+| **Machine Learning**     | PyTorch, TensorRT, OpenCV                                                                             | Trained custom datasets, optimized inference from 10 FPS → 60+ FPS                                  |
+| **DevOps & CI/CD**       | Docker, Cross-Compilation, OTA Updates, Unit Testing                                                  | Engineered automated pipelines and seamless deployment workflows                                   |
+| **Monitoring & Analytics** | InfluxDB, Grafana, Google Cloud Platform, SQL                                                        | Built real-time monitoring, alerting, and analytics dashboards                                     |
+| **Agile & Documentation** | SCRUM, Agile, ADRs, Doxygen                                                                          | Applied Agile practices, documented architecture decisions, and maintained technical docs          |
+| **Performance Optimization** | Model Compression, Hardware Acceleration, Latency Tuning                                          | Boosted ML efficiency by **6×** and reduced inference latency from **>180 ms → <15 ms**             |
+| **Outcome**              | Integration, Reliability, Performance                                                                | Delivered a final product exceeding internship objectives                                           |
+
+___
 
 # Acquired 42 Skills
 
