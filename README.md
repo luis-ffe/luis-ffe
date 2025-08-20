@@ -20,25 +20,13 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
 -->
 
 
---------------------------------------------------------------------------------------------------
-
-<p align="center">🌱 <a href="https://www.42porto.com/">42 Porto</a> student: <code>luis-ffe</code></p>
-
-<p align="center">🔭 Currently in a internship @ <code>SEA;ME</code> .</p>
-<p align="center"> </p>
-
-<p align="center">
-    <a href='https://profile.intra.42.fr/users/luis-ffe' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat-square&logo=42&logoColor=white&labelColor=000000&color=000000'/>
-  </a>
-  </p>
- 
 <!-- Usefull links for me and you.
 LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
 
 HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
          https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
 -->
---------------------------------------------------------------------------------------------------
+
 
 <!-- 
 <h2 align="center"><strong>🛠️ Skills</strong> </h2>
@@ -67,7 +55,9 @@ SKILL ICONS!
 </p>
 
 --------------------------------------------------------------------------------------------------
+# SEA:ME Skills
 
+- Preguiça de dar update a estas coisas
 
 # Acquired 42 Skills
 
