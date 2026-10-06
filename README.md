@@ -1,9 +1,5 @@
-<h2 align="center"><strong>Luis Carvalho</strong>, Software Developer.</h2>
-
-
-<!-- 
-LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
--->
+<h2 align="center"><strong>Luis Carvalho</strong></h2>
+<h3 align="center">Software Engineer | Printed Electronics R&D | Embedded Systems | AI Integration Engineer </h3>
 
 <div align="center">
   <a href="mailto:carvalho96filipe@gmail.com">
@@ -14,116 +10,113 @@ LINKS AND BANNERS FOR EMAIL LINKED IN ETC centered using markdown
   </a>
 </div>
 
+---
 
-<!--
-<p align="center">⬆️   Contact me here   ⬆️</p>
--->
+## About Me
 
+Software engineer with experience in embedded systems, automotive prototypes, cloud-connected systems, data visualization, and custom engineering tools and automation of work and production pipelines.
 
-<!-- Usefull links for me and you.
-LINKED IN !          https://www.linkedin.com/in/luis-filipe-f-1018ba139/
+Currently working on practical software for **printed electronics R&D**, developing tools that automate the design of new printed circuit solutions, predicting behavior and suggesting new possible solutions and formulations.
 
-HERE     https://dev.to/arnabdeypolimi/some-useful-resources-for-github-readme-122c
-         https://codemaker2016.medium.com/tips-and-tricks-to-create-an-awesome-github-profile-readme-ce3825a355c7
--->
+My work encompasses the full prototype chain: from ink formulation and chemistry, material/electrical properties, circuit geometry, embedded control, sensor readout, and power calculations, to interactive tools and programs that make the job faster, easier and allows my team to show working solutions.
 
-
-<!-- 
-<h2 align="center"><strong>🛠️ Skills</strong> </h2>
-SKILL ICONS!
--->
+---
 
 <h2 align="center">Programming Languages</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,swift,mysql,mongodb,bash,html,css,python" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,swift,mysql,mongodb,bash,html,css,python,javascript,typescript" alt="Programming Skills">
   </a>
 </p>
 
-<h2 align="center">Tools adn Platforms CD/CI </h2>
+<h2 align="center">Development Tools & Platforms</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,gcp" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,gcp,react,vite,nodejs,notion" alt="Tools and Platforms">
   </a>
 </p>
 
-<h2 align="center">Development and Productivity</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,github,notion,stackoverflow" alt="My Skills">
-  </a>
-</p>
+---
 
---------------------------------------------------------------------------------------------------
-# SEA:ME Internship Skills
+# Current R&D / Printed Electronics Work
+
+**Printed Electronics Design Software & Functional Ink Applications**
+
+| Category | Skills / Tools | Highlights |
+|---|---|---|
+| **Printed Circuit Design Tools** | React, Vite, JavaScript, SVG, DXF, PDF export | Built custom web tools for designing printable circuits and exporting manufacturing-ready layers |
+| **Conductive Ink Circuits** | Silver ink, copper ink, carbon ink, sheet resistance, volume resistivity | Developed calculators for trace resistance, voltage drop, power loss, heating, and layer stacking |
+| **Wireless / Inductive Systems** | NFC coils, RFID coils, inductive receivers, spiral coils | Designed printable coils for NFC/RFID and wireless LED/power transfer experiments |
+| **Printed Sensors** | FSR sensors, piezoresistive ink, interdigitated electrodes | Designed circular pressure sensors and pressure-mapping layouts for flexible surfaces |
+| **Printed Heaters** | Carbon resistive heaters, automotive seat heater layouts | Designed multi-zone printed heater circuits with resistance, current, and power calculations |
+| **Layered Circuit Design** | Conductive layers, insulator layers, overlap bridges, selective export | Implemented layer selection and export workflows for multi-material printed electronics |
+| **Engineering Calculators** | Ohm’s law, sheet resistance, power, heat, inductance, Q factor | Built tools that convert real measured resistance into effective material properties |
+| **Automotive Prototype Thinking** | 12 V systems, current sensing, PWM, thermal safety, FSR readout | Designed concepts for smart heated seats with pressure sensing and safety control |
+
+---
+
+# SEA:ME Internship Experience
 
 **Multi-ECU Autonomous Vehicle & Smart City Ecosystem Development**
 
-| **Category**             | **Skills / Tools**                                                                                      | **Highlights**                                                                                      |
-|--------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Embedded Systems**     | C++, Python, Microcontrollers, Sensors, Power Management                                              | Designed and programmed embedded systems integrating microcontrollers, sensors, and power hardware |
-| **Communication**        | CAN-Bus, Zenoh, Custom Routing Protocols                                                               | Achieved subsystem coordination with <15 ms latency                                                 |
-| **UI & Visualization**   | Qt/QML, Wireless Displays, Remote Dashboards                                                          | Built real-time in-vehicle clusters and control dashboards                                          |
-| **Machine Learning**     | PyTorch, TensorRT, OpenCV                                                                             | Trained custom datasets, optimized inference from 10 FPS → 60+ FPS                                  |
-| **DevOps & CI/CD**       | Docker, Cross-Compilation, OTA Updates, Unit Testing                                                  | Engineered automated pipelines and seamless deployment workflows                                   |
-| **Monitoring & Analytics** | InfluxDB, Grafana, Google Cloud Platform, SQL                                                        | Built real-time monitoring, alerting, and analytics dashboards                                     |
-| **Agile & Documentation** | SCRUM, Agile, ADRs, Doxygen                                                                          | Applied Agile practices, documented architecture decisions, and maintained technical docs          |
-| **Performance Optimization** | Model Compression, Hardware Acceleration, Latency Tuning                                          | Boosted ML efficiency by **6×** and reduced inference latency from **>180 ms → <15 ms**             |
-| **Outcome**              | Integration, Reliability, Performance                                                                | Delivered a final product exceeding internship objectives                                           |
+| Category | Skills / Tools | Highlights |
+|---|---|---|
+| **Embedded Systems** | C++, Python, Microcontrollers, Sensors, Power Management | Designed and programmed embedded systems integrating microcontrollers, sensors, and power hardware |
+| **Communication** | CAN-Bus, Zenoh, Custom Routing Protocols | Achieved subsystem coordination with low-latency communication |
+| **UI & Visualization** | Qt/QML, Wireless Displays, Remote Dashboards | Built real-time in-vehicle clusters and control dashboards |
+| **Machine Learning** | PyTorch, TensorRT, OpenCV | Trained custom datasets and optimized real-time inference |
+| **DevOps & CI/CD** | Docker, Cross-Compilation, OTA Updates, Unit Testing | Engineered automated build and deployment workflows |
+| **Monitoring & Analytics** | InfluxDB, Grafana, Google Cloud Platform, SQL | Built real-time monitoring, alerting, and analytics dashboards |
+| **Agile & Documentation** | SCRUM, Agile, ADRs, Doxygen | Applied Agile practices and maintained technical documentation |
+| **Performance Optimization** | Model Compression, Hardware Acceleration, Latency Tuning | Improved runtime performance and reduced inference latency |
+| **Outcome** | Integration, Reliability, Performance | Delivered a complete integrated prototype ecosystem |
 
-___
+---
+
+# Engineering Areas
+
+| Area | Experience |
+|---|---|
+| **Software Development** | Web apps, engineering tools, dashboards, automation, data handling |
+| **Embedded Systems** | Microcontrollers, sensors, power control, automotive communication |
+| **Automotive Systems** | CAN-Bus, multi-ECU coordination, 12 V power systems, smart surfaces |
+| **Printed Electronics** | Conductive traces, resistive heaters, pressure sensors, NFC/RFID coils |
+| **Data & Monitoring** | Grafana, InfluxDB, SQL, telemetry, cloud dashboards |
+| **Computer Vision / ML** | OpenCV, PyTorch, TensorRT, real-time optimization |
+| **Product Prototyping** | From concept and calculations to functional prototype and documentation |
+
+---
 
 # Acquired 42 Skills
 
 | Rank | Tags |
-|:----:|:----------------------------------------:|
-| 5    |              `docker`, `containers`, `C++`, `microservices`, `comunication protocols`              |
-| 4    | `object oriented programming`, `classes`, `inheritance`, `network`, `subnetting`, `IP`, `Subnet Mask`, `raycasting`, `3D programming`, `trigonometry` |
-| 3    |              `processes`, `UNIX signals`, `shell`, `threads`              |
-| 2    |  `3D images`, `bresenham`, `sorting`, `sorting algorithms`, `server-client communication`  |
-| 1    |              `VM`, `system administration`, `static variable`, `file descriptor`, `variadic functions`              |
-| 0    |              `C library`, `standard C functions`              |
+|:---:|:---|
+| 5 | `docker`, `containers`, `C++`, `microservices`, `communication protocols` |
+| 4 | `object-oriented programming`, `classes`, `inheritance`, `networking`, `subnetting`, `IP`, `raycasting`, `3D programming`, `trigonometry` |
+| 3 | `processes`, `UNIX signals`, `shell`, `threads` |
+| 2 | `3D images`, `Bresenham`, `sorting algorithms`, `server-client communication` |
+| 1 | `VM`, `system administration`, `static variables`, `file descriptors`, `variadic functions` |
+| 0 | `C library`, `standard C functions` |
 
---------------------------------------------------------------------------------------------------
-
-<!--
+---
 
 <p float="left" align="center">
-    &nbsp;
-  <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/CoomonCoreBanner.png" width="300"/>
-  </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
-    <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/piscineBanner.png" width="300"/>
-  </a>
-</p>
-
--->
-
-<p float="left" align="center">
-    &nbsp;
   <a href="https://github.com/luis-ffe/42-common-core">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerccore.png" width="400"/>
   </a>
   &nbsp;
-    <a href="https://github.com/luis-ffe/42-Piscine">
+  <a href="https://github.com/luis-ffe/42-Piscine">
     <img src="https://github.com/luis-ffe/luis-ffe/blob/main/profile/bannerpiscine.png" width="400"/>
   </a>
 </p>
 
---------------------------------------------------------------------------------------------------
-
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?style=for-the-badge&username=luis-ffe&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF" alt="GitHub Stats">
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=luis-ffe&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF" alt="Top Languages">
 </div>
-
-
---------------------------------------------------------------------------------------------------
-
---------------------------------------------------------------------------------------------------
-
-
